@@ -3,7 +3,7 @@
   "owner": {
     "name": "Seth Hobson",
     "email": "seth@major7apps.com",
-    "url": "https://github.com/wshobson"
+    "url": "https://github.com/qwopqwop200"
   },
   "metadata": {
     "description": "Production-ready workflow orchestration with 64 focused plugins, 87 specialized agents, and 44 tools - optimized for granular installation and minimal token usage",
@@ -17,10 +17,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "documentation",
@@ -47,10 +47,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "debugging",
@@ -75,10 +75,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "git",
@@ -105,10 +105,10 @@
       "version": "1.2.3",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "backend",
@@ -146,10 +146,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "frontend",
@@ -175,10 +175,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "full-stack",
@@ -206,10 +206,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "testing",
@@ -235,10 +235,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "tdd",
@@ -266,10 +266,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "code-review",
@@ -293,10 +293,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "refactoring",
@@ -323,10 +323,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "dependencies",
@@ -351,10 +351,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "error-handling",
@@ -381,10 +381,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "collaboration",
@@ -409,10 +409,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "llm",
@@ -447,10 +447,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "multi-agent",
@@ -475,10 +475,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "context",
@@ -503,10 +503,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "machine-learning",
@@ -537,10 +537,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "data-engineering",
@@ -567,10 +567,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "incident-response",
@@ -596,10 +596,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "diagnostics",
@@ -626,10 +626,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "distributed-tracing",
@@ -654,10 +654,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "observability",
@@ -695,10 +695,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "deployment",
@@ -722,10 +722,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "validation",
@@ -749,10 +749,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "kubernetes",
@@ -782,10 +782,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "cloud",
@@ -821,10 +821,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "ci-cd",
@@ -859,10 +859,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "performance",
@@ -888,10 +888,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "database-optimization",
@@ -918,10 +918,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "code-review",
@@ -949,10 +949,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "performance-review",
@@ -977,10 +977,10 @@
       "version": "1.2.2",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "migration",
@@ -1014,10 +1014,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "technical-debt",
@@ -1044,10 +1044,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "database-design",
@@ -1073,10 +1073,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "migrations",
@@ -1103,10 +1103,10 @@
       "version": "1.2.2",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "security",
@@ -1136,10 +1136,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "compliance",
@@ -1165,10 +1165,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "api-security",
@@ -1192,10 +1192,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "frontend-security",
@@ -1222,10 +1222,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "validation",
@@ -1248,10 +1248,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "api",
@@ -1281,10 +1281,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "api-testing",
@@ -1309,10 +1309,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "seo",
@@ -1336,10 +1336,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "seo",
@@ -1365,10 +1365,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "seo",
@@ -1393,10 +1393,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "documentation",
@@ -1426,10 +1426,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "cross-platform",
@@ -1460,10 +1460,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "business",
@@ -1487,10 +1487,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "hr",
@@ -1516,10 +1516,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "customer-support",
@@ -1543,10 +1543,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "content-marketing",
@@ -1569,10 +1569,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "blockchain",
@@ -1603,10 +1603,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "fintech",
@@ -1630,10 +1630,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "payments",
@@ -1664,10 +1664,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "gaming",
@@ -1692,10 +1692,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "accessibility",
@@ -1720,10 +1720,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "python",
@@ -1757,10 +1757,10 @@
       "version": "1.2.1",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "javascript",
@@ -1792,10 +1792,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "rust",
@@ -1824,10 +1824,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "java",
@@ -1853,10 +1853,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "php",
@@ -1880,10 +1880,10 @@
       "version": "1.2.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "elixir",
@@ -1908,8 +1908,8 @@
         "name": "Community Contribution",
         "url": "https://github.com/exAClior"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "julia",
@@ -1936,8 +1936,8 @@
         "name": "Ryan Snodgrass",
         "url": "https://github.com/rsnodgrass"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "embedded",
@@ -1964,8 +1964,8 @@
         "name": "Ryan Snodgrass",
         "url": "https://github.com/rsnodgrass"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "bash",
@@ -1996,10 +1996,10 @@
       "version": "1.0.0",
       "author": {
         "name": "Seth Hobson",
-        "url": "https://github.com/wshobson"
+        "url": "https://github.com/qwopqwop200"
       },
-      "homepage": "https://github.com/wshobson/agents",
-      "repository": "https://github.com/wshobson/agents",
+      "homepage": "https://github.com/qwopqwop200/agents",
+      "repository": "https://github.com/qwopqwop200/agents",
       "license": "MIT",
       "keywords": [
         "git",

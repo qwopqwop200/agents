@@ -113,7 +113,7 @@ Final Response: [Refined]
 
 ### 5. Model-Specific Optimization
 
-**GPT-5/GPT-4o**
+**GPT-5.1**
 ```python
 gpt4_optimized = """
 ##CONTEXT##
