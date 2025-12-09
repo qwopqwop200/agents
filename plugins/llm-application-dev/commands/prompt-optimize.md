@@ -113,9 +113,9 @@ Final Response: [Refined]
 
 ### 5. Model-Specific Optimization
 
-**GPT-5/GPT-4o**
+**GPT-5.1**
 ```python
-gpt4_optimized = """
+gpt5_1_optimized = """
 ##CONTEXT##
 {structured_context}
 
@@ -159,7 +159,7 @@ claude_optimized = """
 """
 ```
 
-**Gemini Pro/Ultra**
+**Gemini 3 Pro**
 ```python
 gemini_optimized = """
 **System Context:** {background}
@@ -566,7 +566,7 @@ testing_recommendations:
   metrics: ["accuracy", "satisfaction", "cost"]
 
 deployment_strategy:
-  model: "GPT-5 for quality, Claude for safety"
+  model: "GPT-5.1 for quality, Claude for safety"
   temperature: 0.7
   max_tokens: 2000
   monitoring: "Track success, latency, feedback"

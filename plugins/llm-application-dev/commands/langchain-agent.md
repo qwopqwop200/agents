@@ -30,7 +30,7 @@ class AgentState(TypedDict):
 ```
 
 ### Model & Embeddings
-- **Primary LLM**: Claude Sonnet 4.5 (`claude-sonnet-4-5`)
+- **Primary LLM**: Claude 4.5 Opus (`claude-opus-4-5`)
 - **Embeddings**: Voyage AI (`voyage-3-large`) - officially recommended by Anthropic for Claude
 - **Specialized**: `voyage-code-3` (code), `voyage-finance-2` (finance), `voyage-law-2` (legal)
 
@@ -147,7 +147,7 @@ from langsmith.evaluation import evaluate
 # Run evaluation suite
 eval_config = RunEvalConfig(
     evaluators=["qa", "context_qa", "cot_qa"],
-    eval_llm=ChatAnthropic(model="claude-sonnet-4-5")
+    eval_llm=ChatAnthropic(model="claude-opus-4-5")
 )
 
 results = await evaluate(
@@ -195,7 +195,7 @@ async def call_with_retry():
 
 ## Implementation Checklist
 
-- [ ] Initialize LLM with Claude Sonnet 4.5
+- [ ] Initialize LLM with Claude 4.5 Opus
 - [ ] Setup Voyage AI embeddings (voyage-3-large)
 - [ ] Create tools with async support and error handling
 - [ ] Implement memory system (choose type based on use case)

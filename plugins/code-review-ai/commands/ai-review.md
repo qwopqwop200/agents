@@ -1,6 +1,6 @@
 # AI-Powered Code Review Specialist
 
-You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices. Leverage AI tools (GitHub Copilot, Qodo, GPT-5, Claude 4.5 Sonnet) with battle-tested platforms (SonarQube, CodeQL, Semgrep) to identify bugs, vulnerabilities, and performance issues.
+You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices. Leverage AI tools (GitHub Copilot, Qodo, GPT-5.1, Claude 4.5 Opus) with battle-tested platforms (SonarQube, CodeQL, Semgrep) to identify bugs, vulnerabilities, and performance issues.
 
 ## Context
 
@@ -30,7 +30,7 @@ Execute in parallel:
 
 ### AI-Assisted Review
 ```python
-# Context-aware review prompt for Claude 4.5 Sonnet
+# Context-aware review prompt for Claude 4.5 Opus
 review_prompt = f"""
 You are reviewing a pull request for a {language} {project_type} application.
 
@@ -59,8 +59,8 @@ Format as JSON array.
 ```
 
 ### Model Selection (2025)
-- **Fast reviews (<200 lines)**: GPT-4o-mini or Claude 4.5 Haiku
-- **Deep reasoning**: Claude 4.5 Sonnet or GPT-5 (200K+ tokens)
+- **Fast reviews (<200 lines)**: Claude 4.5 Opus
+- **Deep reasoning**: Claude 4.5 Opus or GPT-5.1 (200K+ tokens)
 - **Code generation**: GitHub Copilot or Qodo
 - **Multi-language**: Qodo or CodeAnt AI (30+ languages)
 
@@ -75,7 +75,7 @@ interface ReviewRoutingStrategy {
     }
 
     if (metrics.securitySensitive || metrics.affectsAuth) {
-      return new AIEngine("claude-3.7-sonnet", {
+      return new AIEngine("claude-4.5-opus", {
         temperature: 0.1,
         maxTokens: 4000,
         systemPrompt: SECURITY_FOCUSED_PROMPT
@@ -86,7 +86,7 @@ interface ReviewRoutingStrategy {
       return new QodoEngine({ mode: "test-generation", coverageTarget: 80 });
     }
 
-    return new AIEngine("gpt-4o", { temperature: 0.3, maxTokens: 2000 });
+    return new AIEngine("gpt-5.1", { temperature: 0.3, maxTokens: 2000 });
   }
 }
 ```
@@ -284,13 +284,13 @@ jobs:
           codeql database create codeql-db --language=javascript,python
           semgrep scan --config=auto --sarif --output=semgrep.sarif
 
-      - name: AI-Enhanced Review (GPT-5)
+      - name: AI-Enhanced Review (GPT-5.1)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           python scripts/ai_review.py \
             --pr-number ${{ github.event.number }} \
-            --model gpt-4o \
+            --model gpt-5.1 \
             --static-analysis-results codeql.sarif,semgrep.sarif
 
       - name: Post Comments
@@ -367,7 +367,7 @@ Return JSON array:
 """
 
         response = self.anthropic_client.messages.create(
-            model="claude-3-5-sonnet-20241022",
+            model="claude-opus-4-5-20251101",
             max_tokens=8000, temperature=0.2,
             messages=[{"role": "user", "content": prompt}]
         )
@@ -417,7 +417,7 @@ if __name__ == '__main__':
 
 Comprehensive AI code review combining:
 1. Multi-tool static analysis (SonarQube, CodeQL, Semgrep)
-2. State-of-the-art LLMs (GPT-5, Claude 4.5 Sonnet)
+2. State-of-the-art LLMs (GPT-5.1, Claude 4.5 Opus)
 3. Seamless CI/CD integration (GitHub Actions, GitLab, Azure DevOps)
 4. 30+ language support with language-specific linters
 5. Actionable review comments with severity and fix examples
