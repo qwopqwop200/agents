@@ -60,7 +60,7 @@ Format as JSON array.
 
 ### Model Selection (2025)
 - **Fast reviews (<200 lines)**: Claude 4.5 Opus
-- **Deep reasoning**: Claude 4.5 Opus or GPT-5.1 (200K+ tokens)
+- **Deep reasoning**: Claude 4.5 Opus
 - **Code generation**: GitHub Copilot or Qodo
 - **Multi-language**: Qodo or CodeAnt AI (30+ languages)
 
